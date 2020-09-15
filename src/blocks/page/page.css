@@ -1,0 +1,12 @@
+@import url('./__content/page__content.css');
+
+.page{
+  background-color: #000000;
+  z-index:0;
+  display: flex;
+}
+@media screen and (max-width: 600px){
+  .page{
+    display: block;
+  }
+}

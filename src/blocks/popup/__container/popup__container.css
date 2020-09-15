@@ -1,0 +1,7 @@
+.popup__container{
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  margin: 15px;
+  padding: 0 40px
+}
