@@ -1,5 +1,5 @@
 # Проект 4: Место
-[ссылка на страницу]https://ilyashorin.github.io/mesto-react/
+[ссылка на страницу](https://ilyashorin.github.io/mesto-react/)
 
 ### Используемые инструменты
 
